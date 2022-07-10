@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Omelchenkormn/react-hw-01-components/static/css/main.f7534bf1.css",
+    "main.js": "/Omelchenkormn/react-hw-01-components/static/js/main.40209b2a.js",
+    "index.html": "/Omelchenkormn/react-hw-01-components/index.html",
+    "main.f7534bf1.css.map": "/Omelchenkormn/react-hw-01-components/static/css/main.f7534bf1.css.map",
+    "main.40209b2a.js.map": "/Omelchenkormn/react-hw-01-components/static/js/main.40209b2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7534bf1.css",
+    "static/js/main.40209b2a.js"
+  ]
+}
