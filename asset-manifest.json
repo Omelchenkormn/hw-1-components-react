@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Omelchenkormn/hw-1-components-react/static/css/main.f7534bf1.css",
-    "main.js": "/Omelchenkormn/hw-1-components-react/static/js/main.40209b2a.js",
-    "index.html": "/Omelchenkormn/hw-1-components-react/index.html",
-    "main.f7534bf1.css.map": "/Omelchenkormn/hw-1-components-react/static/css/main.f7534bf1.css.map",
-    "main.40209b2a.js.map": "/Omelchenkormn/hw-1-components-react/static/js/main.40209b2a.js.map"
+    "main.css": "/hw-1-components-react/static/css/main.f7534bf1.css",
+    "main.js": "/hw-1-components-react/static/js/main.40209b2a.js",
+    "index.html": "/hw-1-components-react/index.html",
+    "main.f7534bf1.css.map": "/hw-1-components-react/static/css/main.f7534bf1.css.map",
+    "main.40209b2a.js.map": "/hw-1-components-react/static/js/main.40209b2a.js.map"
   },
   "entrypoints": [
     "static/css/main.f7534bf1.css",
